@@ -1,6 +1,6 @@
 # React-redux-hooks-way
 
-This project is a simplementation of redux hooks.
+This project is a simple implementation of redux hooks.
 
 Scripts for the application :
 "start": "react-scripts start",
